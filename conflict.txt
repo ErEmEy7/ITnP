@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-that's a problem
-=======
-something
->>>>>>> dev
